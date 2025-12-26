@@ -27,5 +27,5 @@ class Test {
 }
 
 ```
-output:
+#output:
 ![output of primitive](primitive.jpeg)
