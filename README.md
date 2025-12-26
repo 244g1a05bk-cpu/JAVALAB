@@ -28,4 +28,4 @@ class Test {
 
 ```
 output:
-![output of primitive](primitive.png)
+![output of primitive](primitive.jpeg)
