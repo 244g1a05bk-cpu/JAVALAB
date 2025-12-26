@@ -79,4 +79,4 @@ class QuadraticRoots {
 }
 ```
 #output:
-![output of Quadratic](Quadratic.jpeg)
+![output of Quadratic](quadratic.jpeg)
