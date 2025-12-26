@@ -79,4 +79,4 @@ class QuadraticRoots {
 }
 ```
 #output:
-![output of quadratic roots](Quadratic_java.jpeg)
+![output of quadratic roots](Quadratic.jpeg)
