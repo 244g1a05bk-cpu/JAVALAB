@@ -104,4 +104,4 @@ System.out.println("Perimeter of Square:"+perimeter);
 }
 ```
 #output:
-![output of Square](square.png)
+![output of Square](Square.png)
