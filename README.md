@@ -81,7 +81,7 @@ class QuadraticRoots {
 #output:
 ![output of Quadratic](quadratic.jpeg)
 
-#Expt-2a
+# Expt-2a
 ```java
 class square{
 int length;
