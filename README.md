@@ -102,5 +102,6 @@ System.out.println("Area of Square:"+area);
 System.out.println("Perimeter of Square:"+perimeter);
 }
 }
+```
 #output:
 ![output of Square](Square.png)
