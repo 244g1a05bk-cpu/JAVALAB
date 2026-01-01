@@ -80,3 +80,27 @@ class QuadraticRoots {
 ```
 #output:
 ![output of Quadratic](quadratic.jpeg)
+
+#Expt-2a
+```java
+class square{
+int length;
+int areaofsquare(){
+return length*length;
+}
+int perimeterofsqaure(){
+retrun 4*length;
+}
+}
+class main{
+public static void main(String args[]){
+square sq=new square();
+sq.length=5;
+int area=sq.areaofsquare();
+int perimeter=perimeterofsquare();
+System.out.println("Area of Square:"+area);
+System.out.println("Perimeter of Square:"+perimeter);
+}
+}
+#output:
+![output of Square](Square.png)
