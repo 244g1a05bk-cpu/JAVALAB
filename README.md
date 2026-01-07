@@ -27,7 +27,7 @@ class Test {
 }
 
 ```
-#output:
+# output:
 ![output of primitive](primitive.jpeg)
 
 # Expt-1b
@@ -78,5 +78,5 @@ class QuadraticRoots {
     }
 }
 ```
-#output:
+# output:
 ![output of Quadratic](quadratic.jpeg)
