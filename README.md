@@ -80,6 +80,3 @@ class QuadraticRoots {
 ```
 #output:
 ![output of Quadratic](quadratic.jpeg)
-
-
-![out of student](Student.png)
